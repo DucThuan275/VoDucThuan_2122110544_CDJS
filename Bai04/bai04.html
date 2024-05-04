@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" integrity="sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="card">
+          <h2 class="card-header text-center">Nhập thông tin sinh viên</h2>
+          <div class="card-body">
+            <form>
+              <div class="form-group">
+                <label for="masv">Mã SV:</label>
+                <input type="text" class="form-control" id="masv" name="masv" required>
+              </div>
+              <div class="form-group">
+                <label for="hoten">Họ tên:</label>
+                <input type="text" class="form-control" id="hoten" name="hoten" required>
+              </div>
+              <div class="form-group">
+                <label for="malop">Mã lớp:</label>
+                <input type="text" class="form-control" id="lop" name="lop" required>
+              </div>
+              <div class="form-group">
+                <label for="ngaysinh">Ngày sinh:</label>
+                <input type="date" class="form-control" id="ngaysinh" name="ngaysinh" required>
+              </div>
+              <button type="button" id="themsv" class="btn btn-primary mt-1">Thêm</button>
+            </form>
+          </div>
+        </div>
+
+        <h2 class="text-center mt-5">Thông tin sinh viên</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Mã sinh viên</th>
+                        <th>Họ tên</th>
+                        <th>Lớp</th>
+                        <th>Ngày sinh</th>
+                    </tr>
+                </thead>
+                <tbody id="show"> 
+        
+                </tbody>
+            </table>
+    </div>
+    <script src="bai04.js"></script>
+</body>
+</html>
