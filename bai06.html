@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .clock {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+        height: 100px;
+        border: 5px solid #ddd;
+        border-radius: 10px;
+        font-size: 50px;
+        font-weight: bold;
+        color: #333;
+        }
+
+        #hours, #minutes, #seconds {
+        margin: 0 10px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="clock">
+            <div id="hours"></div>
+            <div id="minutes"></div>
+            <div id="seconds"></div>
+        </div>
+    </div>
+    <script src="bai06.js"></script>
+</body>
+</html>
