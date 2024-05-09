@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển đổi đơn vị</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+        }
+
+        input[type="number"], select {
+            padding: 5px;
+            margin: 10px;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+
+        .kq {
+            font-size: 18px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chuyển đổi đơn vị</h1>
+
+    <label for="giaTri">Giá trị:</label>
+    <input type="number" id="giaTri">
+
+    <label for="donViNhap">Đơn vị nhập:</label>
+    <select id="donViNhap">
+        <option value="met">Mét</option>
+        <option value="cm">Cm</option>
+        <option value="mm">Mm</option>
+        <option value="feet">Feet</option>
+        <option value="inch">Inch</option>
+    </select>
+
+    <label for="donViDich">Đơn vị đích:</label>
+    <select id="donViDich">
+        <option value="met">Mét</option>
+        <option value="cm">Cm</option>
+        <option value="mm">Mm</option>
+        <option value="feet">Feet</option>
+        <option value="inch">Inch</option>
+    </select>
+
+    <button onclick="chuyenDoi()">Chuyển đổi</button>
+
+    <div id="kq" class="kq"></div>
+
+    <script src="Bai04.js"></script>
+</body>
+</html>
