@@ -1,0 +1,13 @@
+{
+    "products":[
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Nike", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Adidas", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Jordan", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Nike", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Nike", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Nike", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "name":"Nike", "price":"242"},
+      {"image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/10/16/z4785236146244_de6288f82f7e242119c82184b8fd0337.jpg", "name":"Nike", "price":"242"}
+      
+    ]
+    }
