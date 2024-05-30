@@ -1,0 +1,88 @@
+{
+    "products":[
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"},
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"},
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"},
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"},
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"},
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "pricesale":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg", "decription":"New product", "qty":"11313131", "detail":"dâfafasfasf","status":"1"}
+      
+    ],
+    "Categorys":[
+      {"id":"1", "name":"Nike", "slug":"nike-nike","price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"},
+      {"id":"2", "name":"Nike", "slug":"nike-nike","price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"},
+      {"id":"3", "name":"Nike", "slug":"nike-nike","price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"},
+      {"id":"4", "name":"Nike", "slug":"nike-nike", "price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"},
+      {"id":"5", "name":"Nike", "slug":"nike-nike", "price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"},
+      {"id":"6", "name":"Nike", "slug":"nike-nike", "price":"242", "image":"https://img.mwc.com.vn/giay-thoi-trang?w=640&h=640&FileInput=/Resources/Product/2023/12/26/z5009305261924_4ec24943a782e7c5fbdb3c0022ca8040.jpg"}
+      
+    ],
+    "Topics":[
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","decription":"New product","status":"1"}
+    ],
+    "Posts":[
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"","decription":"New product","status":"1"}
+    ],
+    "Users":[
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "image":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "image":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "image":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "image":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "image":"", "status":"1"}
+    ],
+    "Brands":[
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","slug":"san-pham-moi","image":"New product","status":"1"}
+    ],
+    "Menus":[
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","status":"1"}
+    ],
+    "Orders":[
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "note":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "note":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "note":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "note":"", "status":"1"},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","address":"123-acsc-xyz", "note":"", "status":"1"}
+    ],
+    "Banners":[
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"},
+      {"id":"1","name":"Sản phẩm mới","link":"san-pham-moi","position":"New product","decription":"New product","status":"1"}
+    ],
+    "Contacts":[
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","title":"123-acsc-xyz", "content":""},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","title":"123-acsc-xyz", "content":""},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","title":"123-acsc-xyz", "content":""},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","title":"123-acsc-xyz", "content":""},
+      {"id":"1","name":"Thuận","email":"thuan@gmail.com","phone":"0123456789","title":"123-acsc-xyz", "content":""}
+    ],
+    "OrderDetail":[
+      {"id":"1", "qty":"Nike", "price":"nike-nike","amount":"242"},
+      {"id":"1", "qty":"Nike", "price":"nike-nike","amount":"242"},
+      {"id":"1", "qty":"Nike", "price":"nike-nike","amount":"242"},
+      {"id":"1", "qty":"Nike", "price":"nike-nike","amount":"242"},
+      {"id":"1", "qty":"Nike", "price":"nike-nike","amount":"242"}
+    ]
+}
